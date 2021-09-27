@@ -34,3 +34,11 @@ Easy and Simple Telegram Bot to block forwarded messages in Group
 [![No-Forward-Messages](https://github-readme-stats.vercel.app/api/pin/?username=bughunter0&repo=No-Forward-Messages)](https://github.com/bughunter0/No-Forward-Messages)
 
 
+# Day #5
+
+## Instant-Caption-Adder
+Simple Telegram Bot to Add Caption to Media(File,Photo,Audio,Video) Instantly
+
+[![Instant-Caption-Adder](https://github-readme-stats.vercel.app/api/pin/?username=bughunter0&repo=Instant-Caption-Adder)](https://github.com/bughunter0/Instant-Caption-Adder)
+
+
