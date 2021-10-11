@@ -42,3 +42,11 @@ Simple Telegram Bot to Add Caption to Media(File,Photo,Audio,Video) Instantly
 [![Instant-Caption-Adder](https://github-readme-stats.vercel.app/api/pin/?username=bughunter0&repo=Instant-Caption-Adder)](https://github.com/bughunter0/Instant-Caption-Adder)
 
 
+# Day #6
+
+## No-Link
+
+Simple telegram bot which deletes links sent in Groups
+
+[![No-Link](https://github-readme-stats.vercel.app/api/pin/?username=bughunter0&repo=No-Link)](https://github.com/bughunter0/No-Link)
+
