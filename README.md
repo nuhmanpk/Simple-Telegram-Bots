@@ -50,3 +50,17 @@ Simple telegram bot which deletes links sent in Groups
 
 [![No-Link](https://github-readme-stats.vercel.app/api/pin/?username=bughunter0&repo=No-Link)](https://github.com/bughunter0/No-Link)
 
+
+# Day #7
+
+## Ban-Bot
+
+Simple telegram bot to ban members of a chat with /ban command
+
+
+[![ban-bot](https://github-readme-stats.vercel.app/api/pin/?username=bughunter0&repo=ban-bot)](https://github.com/bughunter0/ban-bot)
+
+## Credits
+[Pyrogram](https://docs.pyrogram.org)<br>
+[None Other than](https://github.com/bughunter0)
+
